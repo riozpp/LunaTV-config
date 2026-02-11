@@ -11,11 +11,6 @@
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "detail": "https://dbzy.tv"
     },
-    "tyyszy.com": {
-      "name": "🎬天涯影视",
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "detail": "https://tyyszy.com"
-    },
     "mtzy.me": {
       "name": "🎬茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
@@ -143,7 +138,7 @@
     },
     "lovedan.net": {
       "name": "🎬艾旦影视",
-      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
+      "api": "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
     },
     "91md.me": {
@@ -269,7 +264,7 @@
     "souavzyw.com": {
       "name": "🔞souavZY",
       "api": "https://api.souavzyw.net/api.php/provide/vod",
-      "detail": "souavzyw.com"
+      "detail": "https://api.souavzyw.net"
     }
   }
 }
